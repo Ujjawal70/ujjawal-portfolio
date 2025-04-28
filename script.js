@@ -1,0 +1,1 @@
+// Smooth fade-in effect is handled via CSS animations.
